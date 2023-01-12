@@ -1,0 +1,21 @@
+body {
+ 	background-color: #34333c;
+ 	font-family: 'Roboto', sans-serif;
+}
+p,h1 {
+	text-align: center;
+	color: #00BC76;
+}
+p {
+	font-size: 6vh;
+	font-style: italic;
+}
+h1 {
+	font-size: 8vh;
+	font-weight: bold;
+}
+.result {
+	margin-top: 35px;
+	margin-bottom: auto;
+	display: block;
+}
