@@ -23,5 +23,5 @@
             }
         });
     }
-    timer = setInterval(refresh_time,1000);
+    timer = setInterval(refresh_time,1);
 </script>
